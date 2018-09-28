@@ -6,7 +6,6 @@ MaxElement=0
 UsedCodes=abcdefghijklmnopqrstuvwxyz
 WildChar=*
 NumRules=0
-EnChar=v
 EndInput=0
 
 [CharDefinition]
